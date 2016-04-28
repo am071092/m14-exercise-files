@@ -1,0 +1,37 @@
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m4-entities\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m4-entities\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m4-entities\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m4-entities\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m4-entities\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m5-data-access\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m5-data-access\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m5-data-access\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m5-data-access\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m6-services-and-engines\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m6-services-and-engines\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m6-services-and-engines\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m6-services-and-engines\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb

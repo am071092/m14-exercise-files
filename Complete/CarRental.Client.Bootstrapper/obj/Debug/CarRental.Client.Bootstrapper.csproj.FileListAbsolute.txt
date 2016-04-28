@@ -1,0 +1,210 @@
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.UI.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.UI.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Client.Bootstrapper\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.UI.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.UI.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.UI.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.UI.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m8-client-access\demos\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.UI.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.UI.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Bootstrapper.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.UI.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\FluentValidation.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\EntityFramework.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.ServiceModel.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.UI.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\Core.Common.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Contracts.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Entities.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Client.Proxies.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.Contracts.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\bin\Debug\CarRental.Common.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.csprojResolveAssemblyReference.cache
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Client.Bootstrapper\obj\Debug\CarRental.Client.Bootstrapper.pdb

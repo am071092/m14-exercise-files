@@ -1,0 +1,749 @@
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\WebActivator.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\WebActivator.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Moq.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Moq.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Web.Tests\bin\Debug\Moq.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Moq.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\WebActivator.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Moq.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Moq.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\WebActivator.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Moq.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\WebActivator.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Web.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Moq.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Moq.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\WebActivator.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Web.Tests\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\WebActivator.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\Moq.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\Moq.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\WebActivator.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Complete\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\WebActivator.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Web.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\Moq.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\Moq.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\WebActivator.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website\demos\Starter\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\WebActivator.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Web.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\Moq.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\Moq.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\WebActivator.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Starter\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\WebActivator.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Web.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\Moq.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\Moq.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\WebActivator.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m9-car-rental-website-part-1\demos\Working\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\WebActivator.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Web.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\Moq.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\Moq.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\WebActivator.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m10-car-rental-website-part-2\demos\Working\CarRental.Web.Tests\bin\Debug\CarRental.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\WebActivator.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m13-car-rental-desktop\demos\Complete\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll.config
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.Tests.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Common.Contracts.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Common.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Moq.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\FluentValidation.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\WebActivator.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\WebMatrix.Data.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Contracts.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Entities.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Common.Contracts.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Common.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Web.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.ServiceModel.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Core.Common.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Moq.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Moq.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\FluentValidation.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\FluentValidation.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\WebActivator.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Mvc.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Bootstrapper.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\AttributeRouting.Web.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\CarRental.Client.Proxies.pdb
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\WebMatrix.Data.xml
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.dll
+C:\Users\Ash\Downloads\building-multi-client-end-to-end-service-oriented-applications\m14-exercise-files\Complete\CarRental.Web.Tests\obj\Debug\CarRental.Web.Tests.pdb
